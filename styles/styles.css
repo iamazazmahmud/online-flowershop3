@@ -1,0 +1,18 @@
+/* common shared styles */
+* {
+    margin: 0;
+    padding: 0;
+    max-width: 2000px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header styles start */
+header {
+    background: #E554731A;
+    height: 100vh;
+
+}
